@@ -1,0 +1,12 @@
+{
+	"full_name": "E. Powell",
+	"email": "powell.518@gmail.com",
+	"github_username": "sopel-irc",
+	"project_name": "Sopel Cookiecutter",
+	"repo_name": "sopel-cookiecutter",
+	"module_name": "cookiecutter",
+	"project_short_description": "Sopel Cookiecutter contains a template for a PyPI-distributable Sopel module",
+	"release_date": "2015-08-30",
+	"year": "2015",
+	"version": "0.1.0"
+}
