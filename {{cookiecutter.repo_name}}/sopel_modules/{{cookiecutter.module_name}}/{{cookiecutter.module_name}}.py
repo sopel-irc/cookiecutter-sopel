@@ -13,6 +13,6 @@ def setup(bot):
     pass
 
 
-@module.command('helloworld')
+@module.commands('helloworld')
 def hello_world(bot, trigger):
     bot.say('Hello, world!')
