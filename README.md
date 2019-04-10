@@ -1,9 +1,9 @@
-# sopel-cookiecutter
+# cookiecutter-sopel
 Template for Sopel modules. To use:
 
 ```sh
 pip install cookiecutter
-cookiecutter gh:sopel-irc/sopel-cookiecutter
+cookiecutter gh:sopel-irc/cookiecutter-sopel
 ```
 
 You can then release the module on PyPI in the normal Python way.
