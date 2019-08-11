@@ -4,7 +4,7 @@ from __future__ import unicode_literals, absolute_import, division, print_functi
 
 import unittest
 
-from sopel_modules.{{cookiecutter.module_name}} import {{cookiecutter.module_name}}
+from sopel_{{cookiecutter.module_name}} import {{cookiecutter.module_name}}
 
 class Test{{cookiecutter.module_name|capitalize}}(unittest.TestCase):
     def setUp(self):

@@ -1,5 +1,5 @@
 # cookiecutter-sopel
-Template for Sopel modules. To use:
+Plugin template for Sopel 7 and higher. To use:
 
 ```sh
 pip install cookiecutter

@@ -7,7 +7,7 @@ from __future__ import unicode_literals, absolute_import, division, print_functi
 
 from .{{cookiecutter.module_name}} import *
 
-__author__ = '{{ cookiecutter.full_name }}'
-__email__ = '{{ cookiecutter.email }}'
-__version__ = '{{ cookiecutter.version }}'
+__author__ = '{{cookiecutter.full_name}}'
+__email__ = '{{cookiecutter.email}}'
+__version__ = '{{cookiecutter.version}}'
 
