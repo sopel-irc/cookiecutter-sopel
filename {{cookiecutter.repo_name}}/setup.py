@@ -27,11 +27,6 @@ with open('dev-requirements.txt') as dev_requirements_file:
 
 setup(
     long_description=readme + '\n\n' + history,
-    entry_points={
-        'sopel.plugins': [
-            '{{cookiecutter.module_name}} = sopel_{{cookiecutter.module_name}}.{{cookiecutter.module_name}}',
-        ]
-    },
     install_requires=requirements,
     tests_require=dev_requirements,
 )
