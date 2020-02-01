@@ -1,12 +1,12 @@
 {
-	"full_name": "E. Powell",
-	"email": "powell.518@gmail.com",
-	"github_username": "sopel-irc",
+	"full_name": "Anonymous Sopel Hacker",
+	"email": "you@domain.tld",
+	"github_username": "asopelhacker",
 	"project_name": "Sopel Cookiecutter",
-	"repo_name": "cookiecutter-sopel",
-	"module_name": "cookiecutter",
-	"project_short_description": "Sopel Cookiecutter contains a template for a PyPI-distributable Sopel module",
-	"release_date": "2015-08-30",
-	"year": "2015",
+	"repo_name": "sopel-beawesome",
+	"module_name": "beawesome",
+	"project_short_description": "A plugin for Sopel that makes everything awesome.",
+	"release_date": "2019-08-11",
+	"year": "2019",
 	"version": "0.1.0"
 }
