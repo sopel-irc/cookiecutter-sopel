@@ -4,9 +4,9 @@
 	"github_username": "asopelhacker",
 	"project_name": "Sopel Cookiecutter",
 	"repo_name": "sopel-beawesome",
-	"module_name": "beawesome",
+	"plugin_name": "beawesome",
 	"project_short_description": "A plugin for Sopel that makes everything awesome.",
-	"release_date": "2019-08-11",
-	"year": "2019",
+	"release_date": "2020-02-23",
+	"year": "2020",
 	"version": "0.1.0"
 }
