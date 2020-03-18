@@ -6,7 +6,7 @@
 	"repo_name": "sopel-{{ cookiecutter.plugin_name }}",
 	"project_name": "{{ cookiecutter.repo_name }}",
 	"project_short_description": "A plugin for Sopel that makes everything awesome.",
-	"release_date": "2020-02-23",
-	"year": "2020",
+	"release_date": "{% now 'local', '%Y-%m-%d' %}",
+	"year": "{% now 'local', '%Y' %}",
 	"version": "0.1.0"
 }
