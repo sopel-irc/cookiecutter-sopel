@@ -21,4 +21,5 @@ with open('NEWS') as history_file:
 
 setup(
     long_description=readme + '\n\n' + history,
+    long_description_content_type='text/markdown',
 )
