@@ -5,6 +5,7 @@
 	"github_username": "asopelhacker",
 	"repo_name": "sopel-{{ cookiecutter.plugin_name }}",
 	"project_name": "{{ cookiecutter.repo_name }}",
+	"package_name": "{{ cookiecutter.repo_name }}",
 	"project_short_description": "A plugin for Sopel that makes everything awesome.",
 	"release_date": "{% now 'local', '%Y-%m-%d' %}",
 	"year": "{% now 'local', '%Y' %}",
