@@ -1,11 +1,10 @@
-# coding=utf8
 """{{cookiecutter.project_name}}
 
 {{cookiecutter.project_short_description}}
 """
-from __future__ import unicode_literals, absolute_import, division, print_function
+from __future__ import annotations
 
-from sopel import module
+from sopel import plugin
 
 
 def configure(config):
@@ -16,6 +15,6 @@ def setup(bot):
     pass
 
 
-@module.commands('helloworld')
+@plugin.command('helloworld')
 def hello_world(bot, trigger):
     bot.say('Hello, world!')
