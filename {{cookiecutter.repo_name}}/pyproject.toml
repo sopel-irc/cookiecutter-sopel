@@ -48,4 +48,4 @@ dependencies = [
 "Bug Tracker" = "https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/issues"
 
 [project.entry-points."sopel.plugins"]
-"{{cookiecutter.plugin_name}}" = "sopel_{{cookiecutter.plugin_name}}"
+"{{cookiecutter.plugin_name}}" = "sopel_{{cookiecutter.plugin_name}}.plugin"
