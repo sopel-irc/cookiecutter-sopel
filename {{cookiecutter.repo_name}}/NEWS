@@ -1,0 +1,5 @@
+## Changelog
+
+### {{cookiecutter.version}}
+
+First release of `{{cookiecutter.project_name}}`.
