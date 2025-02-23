@@ -1,9 +1,9 @@
-# cookiecutter-sopel
-Plugin template for Sopel 7 and higher. To use:
+# sopel-irc/plugin
+Plugin template for Sopel 8 and higher. To use:
 
 ```sh
 pip install cookiecutter
-cookiecutter gh:sopel-irc/cookiecutter-sopel
+cookiecutter gh:sopel-irc/plugin
 ```
 
 You can then release the plugin on PyPI in the normal Python way.
@@ -33,12 +33,3 @@ these instead of retyping your info every time.
 Read more [in cookiecutter's documentation][cookiecutter-user-config].
 
   [cookiecutter-user-config]: https://cookiecutter.readthedocs.io/en/latest/advanced/user_config.html
-
-## Legacy module template
-If you need to build a new plugin that will be compatible with Sopel 6, use the
-legacy template:
-
-```sh
-pip install cookiecutter
-cookiecutter gh:sopel-irc/cookiecutter-sopel --checkout sopel_modules
-```
