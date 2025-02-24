@@ -1,13 +1,11 @@
 {
 	"plugin_name": "beawesome",
+	"project_short_description": "A plugin for Sopel that makes everything awesome.",
 	"full_name": "Anonymous Sopel Hacker",
 	"email": "you@domain.tld",
 	"github_username": "asopelhacker",
 	"repo_name": "sopel-{{ cookiecutter.plugin_name }}",
 	"project_name": "{{ cookiecutter.repo_name }}",
 	"package_name": "{{ cookiecutter.repo_name }}",
-	"project_short_description": "A plugin for Sopel that makes everything awesome.",
-	"release_date": "{% now 'local', '%Y-%m-%d' %}",
-	"year": "{% now 'local', '%Y' %}",
 	"version": "0.1.0"
 }
